@@ -10,6 +10,8 @@ namespace Robots
     {
         static void Main(string[] args)
         {
+            Interaction interaction = new Interaction();
+            Interaction.Run();
         }
     }
 }
