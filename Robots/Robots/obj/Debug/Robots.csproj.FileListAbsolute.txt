@@ -1,2 +1,3 @@
 C:\Users\Drama\AppData\Local\Temporary Projects\Robots\bin\Debug\Robots.exe.config
 C:\Users\Drama\Desktop\devcodecampprojects\RockPaperScissors\Robots\Robots\bin\Debug\Robots.exe.config
+C:\Users\Drama\Desktop\devcodecampprojects\Robots\Robots\Robots\bin\Debug\Robots.exe.config
